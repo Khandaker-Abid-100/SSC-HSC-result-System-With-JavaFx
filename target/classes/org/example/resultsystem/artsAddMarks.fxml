@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.RadioButton?>
+<?import javafx.scene.control.Separator?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.control.ToggleGroup?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.example.resultsystem.controller.ArtsAddMarksController">
+   <children>
+      <Button layoutX="435.0" layoutY="24.0" mnemonicParsing="false" onAction="#br" text="go to create" />
+      <TextField fx:id="banField" layoutX="103.0" layoutY="56.0" promptText="Bangla" />
+      <TextField fx:id="ictField" layoutX="414.0" layoutY="109.0" promptText="ict" />
+      <TextField fx:id="SociologyField" layoutX="116.0" layoutY="234.0" promptText="Chemistry" />
+      <TextField fx:id="EconomicsField" layoutX="109.0" layoutY="195.0" promptText="Biolodgy" />
+      <TextField fx:id="CivicField" layoutX="132.0" layoutY="150.0" promptText="Hair Math" />
+      <TextField fx:id="enField" layoutX="109.0" layoutY="104.0" promptText="English" />
+      <TextField fx:id="HistoryField" layoutX="407.0" layoutY="66.0" promptText="Physics" />
+      <Button layoutX="255.0" layoutY="298.0" mnemonicParsing="false" onAction="#submit" text="SUBMIT" />
+      <Label fx:id="good" layoutX="284.0" layoutY="345.0" />
+      <Label fx:id="banLebel" layoutX="40.0" layoutY="58.0" text="Bangla" />
+      <Label fx:id="engLebel" layoutX="40.0" layoutY="97.0" text="English" />
+      <Label fx:id="CivicLebel" layoutX="51.0" layoutY="154.0" text="Civic " />
+      <Label fx:id="EconomicsLebel" layoutX="36.0" layoutY="199.0" text="Economics" />
+      <Label fx:id="SociologyLebel" layoutX="26.0" layoutY="238.0" text="Sociology" />
+      <Separator layoutX="281.0" layoutY="49.0" orientation="VERTICAL" prefHeight="200.0" />
+      <Label fx:id="HistoryLebel" layoutX="336.0" layoutY="69.0" text="History" />
+      <Label fx:id="ictLebel" layoutX="336.0" layoutY="108.0" text="ict" />
+      <RadioButton layoutX="335.0" layoutY="188.0" mnemonicParsing="false" text="Civic ">
+         <toggleGroup>
+            <ToggleGroup fx:id="AS" />
+         </toggleGroup>
+      </RadioButton>
+      <RadioButton layoutX="425.0" layoutY="188.0" mnemonicParsing="false" text="Economics" toggleGroup="$AS" />
+      <Label layoutX="335.0" layoutY="163.0" text="select optional subject" />
+   </children>
+</AnchorPane>

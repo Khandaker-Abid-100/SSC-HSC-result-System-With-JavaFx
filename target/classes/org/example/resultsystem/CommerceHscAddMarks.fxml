@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.RadioButton?>
+<?import javafx.scene.control.Separator?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.control.ToggleGroup?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.example.resultsystem.controller.CommerceHscAddMarksController">
+   <children>
+      <Button layoutX="478.0" layoutY="31.0" mnemonicParsing="false" onAction="#cr" text="go to create" />
+      <TextField fx:id="banField" layoutX="113.0" layoutY="66.0" promptText="Bangla" />
+      <TextField fx:id="ictField" layoutX="424.0" layoutY="119.0" promptText="ict" />
+      <TextField fx:id="MarketingField" layoutX="119.0" layoutY="219.0" promptText="Chemistry" />
+      <TextField fx:id="FinanceField" layoutX="119.0" layoutY="177.0" promptText="Biolodgy" />
+      <TextField fx:id="AccountingField" layoutX="119.0" layoutY="140.0" promptText="Hair Math" />
+      <TextField fx:id="enField" layoutX="119.0" layoutY="103.0" promptText="English" />
+      <TextField fx:id="managementField" layoutX="417.0" layoutY="76.0" promptText="Physics" />
+      <Button layoutX="262.0" layoutY="323.0" mnemonicParsing="false" onAction="#submit" text="SUBMIT" />
+      <Label fx:id="good" layoutX="294.0" layoutY="355.0" />
+      <Label fx:id="banLebel" layoutX="63.0" layoutY="69.0" text="Bangla" />
+      <Label fx:id="engLebel" layoutX="62.0" layoutY="107.0" text="English" />
+      <Label fx:id="AccountingLebel" layoutX="51.0" layoutY="144.0" text="Accounting" />
+      <Label fx:id="FinanceLebel" layoutX="60.0" layoutY="181.0" text="Finance " />
+      <Label fx:id="MarketingLebel" layoutX="54.0" layoutY="223.0" text="Marketing" />
+      <Separator layoutX="291.0" layoutY="59.0" orientation="VERTICAL" prefHeight="200.0" />
+      <Label fx:id="managementLebel" layoutX="317.0" layoutY="77.0" text="management" />
+      <Label fx:id="ictLebel" layoutX="346.0" layoutY="118.0" text="ict" />
+      <RadioButton layoutX="376.0" layoutY="335.0" mnemonicParsing="false" text="Marketing">
+         <toggleGroup>
+            <ToggleGroup fx:id="CSH" />
+         </toggleGroup>
+      </RadioButton>
+      <RadioButton layoutX="466.0" layoutY="335.0" mnemonicParsing="false" text="Finance " toggleGroup="$CSH" />
+      <Label layoutX="376.0" layoutY="310.0" text="select optional subject" />
+      <TextField fx:id="banField1" layoutX="113.0" layoutY="246.0" promptText="Bangla" />
+      <TextField fx:id="MarketingField1" layoutX="412.0" layoutY="229.0" promptText="Chemistry" />
+      <TextField fx:id="FinanceField1" layoutX="412.0" layoutY="187.0" promptText="Biolodgy" />
+      <TextField fx:id="AccountingField1" layoutX="412.0" layoutY="150.0" promptText="Hair Math" />
+      <TextField fx:id="enField1" layoutX="119.0" layoutY="283.0" promptText="English" />
+      <Label fx:id="banLebel1" layoutX="63.0" layoutY="249.0" text="Bangla II" />
+      <Label fx:id="engLebel1" layoutX="62.0" layoutY="287.0" text="English II" />
+      <Label fx:id="AccountingLebel1" layoutX="344.0" layoutY="154.0" text="Accounting II" />
+      <Label fx:id="FinanceLebel1" layoutX="353.0" layoutY="191.0" text="Finance  II" />
+      <Label fx:id="MarketingLebel1" layoutX="347.0" layoutY="233.0" text="Marketing II" />
+      <TextField fx:id="managementField1" layoutX="417.0" layoutY="271.0" promptText="Physics" />
+      <Label fx:id="managementLebel1" layoutX="317.0" layoutY="272.0" text="management II" />
+   </children>
+</AnchorPane>
