@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e84cc421-734e-4bde-92e1-b005a7fbb9e4" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2ggma3qs6gizukClUyu2LSh1ZkI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.HelloApplication.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.1-openjdk-21.0.1-4caba194b151-23eed401" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e84cc421-734e-4bde-92e1-b005a7fbb9e4" name="Changes" comment="" />
+      <created>1716127659165</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716127659165</updated>
+      <workItem from="1716128101432" duration="3562000" />
+      <workItem from="1716261563778" duration="2454000" />
+      <workItem from="1716267721980" duration="4770000" />
+      <workItem from="1716306199869" duration="1846000" />
+      <workItem from="1716309098102" duration="1855000" />
+      <workItem from="1716353599396" duration="7258000" />
+      <workItem from="1716375320788" duration="284000" />
+      <workItem from="1716402714969" duration="1836000" />
+      <workItem from="1716443065649" duration="6158000" />
+      <workItem from="1716487769401" duration="1697000" />
+      <workItem from="1716522885513" duration="1276000" />
+      <workItem from="1716528079208" duration="3693000" />
+      <workItem from="1716537460800" duration="985000" />
+      <workItem from="1716540510731" duration="1681000" />
+      <workItem from="1716631884159" duration="610000" />
+      <workItem from="1716698407144" duration="1694000" />
+      <workItem from="1716722503543" duration="1146000" />
+      <workItem from="1716727133080" duration="156000" />
+      <workItem from="1716745893358" duration="764000" />
+      <workItem from="1716758798208" duration="2147000" />
+      <workItem from="1716830594158" duration="2169000" />
+      <workItem from="1716869863956" duration="7155000" />
+      <workItem from="1716892921736" duration="1683000" />
+      <workItem from="1716896556904" duration="1679000" />
+      <workItem from="1716899813351" duration="4263000" />
+      <workItem from="1716915629441" duration="897000" />
+      <workItem from="1716952471448" duration="8565000" />
+      <workItem from="1716995409252" duration="15218000" />
+      <workItem from="1717019174019" duration="1529000" />
+      <workItem from="1717030110977" duration="1087000" />
+      <workItem from="1717065595238" duration="4612000" />
+      <workItem from="1717125714640" duration="2033000" />
+      <workItem from="1717149804715" duration="3825000" />
+      <workItem from="1717155534423" duration="2398000" />
+      <workItem from="1717158344271" duration="1410000" />
+      <workItem from="1717163338366" duration="983000" />
+      <workItem from="1717165556366" duration="459000" />
+      <workItem from="1717213923767" duration="5620000" />
+      <workItem from="1717226115207" duration="2767000" />
+      <workItem from="1717245036677" duration="5510000" />
+      <workItem from="1717258559811" duration="1062000" />
+      <workItem from="1717260946001" duration="218000" />
+      <workItem from="1717264871445" duration="1779000" />
+      <workItem from="1717300803050" duration="2930000" />
+      <workItem from="1717306868558" duration="5666000" />
+      <workItem from="1717316039574" duration="800000" />
+      <workItem from="1717328224694" duration="2345000" />
+      <workItem from="1717482795164" duration="122000" />
+      <workItem from="1717688690421" duration="196000" />
+      <workItem from="1717693520647" duration="492000" />
+      <workItem from="1741877530032" duration="1178000" />
+      <workItem from="1741933504086" duration="69000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
