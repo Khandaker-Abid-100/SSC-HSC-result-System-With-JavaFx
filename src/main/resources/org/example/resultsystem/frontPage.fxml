@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.example.resultsystem.controller.FrontPageController">
+   <children>
+      <Button layoutX="137.0" layoutY="74.0" mnemonicParsing="false" onAction="#sear" prefHeight="25.0" prefWidth="236.0" text="Search SSC/HSC Result" />
+      <Button layoutX="147.0" layoutY="141.0" mnemonicParsing="false" onAction="#pubsear" prefHeight="25.0" prefWidth="236.0" text="See the public university u can apply" />
+      <Button layoutX="154.0" layoutY="200.0" mnemonicParsing="false" onAction="#prisear" prefHeight="25.0" prefWidth="236.0" text="See the private university u can apply" />
+      <Button layoutX="166.0" layoutY="254.0" mnemonicParsing="false" onAction="#adre" prefHeight="25.0" prefWidth="236.0" text="addmission requirement set" />
+   </children>
+</AnchorPane>
